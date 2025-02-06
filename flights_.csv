@@ -1,0 +1,101 @@
+Flight_ID,Airline_Name,Source_Airport,Destination_Airport,Departure_Time,Arrival_Time,Ticket_Price,Available_Seats
+FL001,Vistara,Bangalore,Bangalore,10:54:58,06:44:38,3422.0,169
+FL002,Air India,Kolkata,Mumbai,20:29:55,16:27:20,5816.14,107
+FL003,IndiGo,Chennai,Bangalore,19:25:35,02:25:05,5437.48,73
+FL004,IndiGo,Bangalore,Kolkata,08:16:04,02:01:41,8771.72,160
+FL005,SpiceJet,Hyderabad,Hyderabad,23:15:09,01:56:14,10697.14,161
+FL006,SpiceJet,Delhi,Chennai,04:23:13,05:24:18,11909.0,177
+FL007,SpiceJet,Bangalore,Hyderabad,21:51:24,13:16:45,14655.62,170
+FL008,Vistara,Kolkata,Hyderabad,17:19:11,14:56:03,3096.5,87
+FL009,Air India,Hyderabad,Kolkata,08:10:03,12:49:49,6954.13,52
+FL010,GoAir,Kolkata,Mumbai,14:46:30,23:32:57,4425.7,116
+FL011,IndiGo,Chennai,Mumbai,11:12:49,07:01:04,10222.5,187
+FL012,Air India,Chennai,Kolkata,06:30:33,12:10:24,5740.22,197
+FL013,IndiGo,Mumbai,Delhi,09:09:29,02:21:31,4491.17,76
+FL014,Vistara,Kolkata,Chennai,19:22:44,11:03:50,11445.59,176
+FL015,GoAir,Hyderabad,Mumbai,18:46:53,04:08:01,12257.42,146
+FL016,Vistara,Mumbai,Delhi,13:26:38,22:46:22,3482.6,188
+FL017,SpiceJet,Mumbai,Bangalore,22:04:23,08:00:21,5859.38,99
+FL018,SpiceJet,Chennai,Kolkata,06:21:59,23:08:18,12671.49,187
+FL019,SpiceJet,Delhi,Hyderabad,21:30:47,08:47:38,4728.49,58
+FL020,IndiGo,Hyderabad,Bangalore,03:03:52,06:17:24,14112.99,125
+FL021,Vistara,Chennai,Hyderabad,21:20:21,20:48:18,4959.74,101
+FL022,IndiGo,Hyderabad,Bangalore,04:26:02,03:41:01,8496.53,62
+FL023,GoAir,Delhi,Bangalore,15:05:27,18:41:07,12189.69,72
+FL024,Vistara,Delhi,Mumbai,18:13:48,10:27:34,11979.86,184
+FL025,Vistara,Hyderabad,Mumbai,16:58:24,07:13:04,14041.58,177
+FL026,GoAir,Bangalore,Mumbai,17:53:51,06:40:13,14882.19,187
+FL027,Vistara,Chennai,Mumbai,04:40:59,09:49:02,4623.82,62
+FL028,Vistara,Hyderabad,Chennai,13:31:30,20:20:32,7710.69,80
+FL029,IndiGo,Mumbai,Hyderabad,02:55:58,03:30:23,14218.1,96
+FL030,IndiGo,Mumbai,Chennai,03:42:57,20:13:38,8103.71,135
+FL031,GoAir,Hyderabad,Mumbai,22:12:52,09:35:47,8520.84,176
+FL032,SpiceJet,Bangalore,Bangalore,23:44:44,21:57:36,14830.28,197
+FL033,SpiceJet,Kolkata,Chennai,11:28:26,02:29:12,12029.37,166
+FL034,GoAir,Mumbai,Kolkata,11:35:47,14:06:13,10301.83,198
+FL035,Vistara,Mumbai,Mumbai,23:15:30,08:42:45,4355.72,151
+FL036,GoAir,Bangalore,Bangalore,01:45:03,01:25:16,9351.48,95
+FL037,GoAir,Kolkata,Chennai,07:13:35,14:02:44,6727.27,85
+FL038,Air India,Delhi,Chennai,00:53:43,08:58:12,6175.34,134
+FL039,Vistara,Mumbai,Kolkata,11:35:16,12:36:17,3640.69,159
+FL040,GoAir,Mumbai,Kolkata,05:08:33,19:46:02,11804.98,119
+FL041,GoAir,Delhi,Delhi,20:13:17,04:40:12,10184.01,125
+FL042,Vistara,Chennai,Mumbai,00:30:04,10:06:45,10273.36,61
+FL043,IndiGo,Chennai,Kolkata,05:28:47,02:56:47,9304.27,89
+FL044,GoAir,Mumbai,Kolkata,18:03:18,16:16:15,6306.17,139
+FL045,Air India,Chennai,Delhi,05:46:58,11:22:18,7055.39,93
+FL046,IndiGo,Bangalore,Chennai,05:32:17,04:56:38,3964.48,92
+FL047,Vistara,Bangalore,Hyderabad,11:32:14,11:11:10,12891.81,55
+FL048,IndiGo,Delhi,Bangalore,03:56:44,07:37:28,5899.61,55
+FL049,Air India,Bangalore,Delhi,21:17:17,01:52:35,14141.85,55
+FL050,IndiGo,Hyderabad,Hyderabad,10:16:38,12:33:34,5760.97,83
+FL051,SpiceJet,Hyderabad,Delhi,15:45:58,19:29:15,12035.32,174
+FL052,IndiGo,Kolkata,Kolkata,03:01:03,01:14:01,4534.85,121
+FL053,GoAir,Kolkata,Delhi,09:46:50,07:01:15,14071.86,193
+FL054,SpiceJet,Bangalore,Delhi,06:01:51,11:11:41,3763.99,81
+FL055,SpiceJet,Kolkata,Mumbai,05:26:44,10:39:52,3091.94,152
+FL056,SpiceJet,Delhi,Delhi,10:49:47,11:35:52,5142.34,195
+FL057,GoAir,Mumbai,Kolkata,11:10:56,21:17:56,6303.29,153
+FL058,Air India,Mumbai,Bangalore,07:03:12,01:32:36,10638.36,118
+FL059,Vistara,Kolkata,Delhi,16:46:17,11:53:56,3874.93,135
+FL060,Vistara,Hyderabad,Mumbai,18:14:56,10:54:00,11245.41,98
+FL061,IndiGo,Bangalore,Hyderabad,23:43:21,13:19:50,9277.09,75
+FL062,Air India,Kolkata,Mumbai,07:46:34,13:27:49,6940.2,161
+FL063,IndiGo,Kolkata,Mumbai,02:39:55,20:29:27,5328.49,148
+FL064,IndiGo,Kolkata,Hyderabad,06:21:48,03:11:37,8388.78,95
+FL065,IndiGo,Mumbai,Chennai,23:28:35,14:33:34,14387.06,159
+FL066,Vistara,Bangalore,Hyderabad,13:25:38,20:48:44,4917.48,111
+FL067,IndiGo,Bangalore,Delhi,08:52:46,22:11:57,13833.11,91
+FL068,SpiceJet,Mumbai,Bangalore,23:39:35,10:26:05,3489.12,121
+FL069,GoAir,Mumbai,Delhi,11:45:00,00:42:57,3224.49,98
+FL070,IndiGo,Hyderabad,Kolkata,12:43:53,10:33:24,7183.21,71
+FL071,Vistara,Kolkata,Chennai,16:12:07,18:32:48,3555.6,99
+FL072,GoAir,Hyderabad,Delhi,16:45:25,04:52:08,11632.51,157
+FL073,SpiceJet,Kolkata,Kolkata,23:20:07,06:26:55,8501.02,73
+FL074,IndiGo,Hyderabad,Bangalore,13:10:18,09:36:14,7450.21,140
+FL075,Vistara,Chennai,Delhi,23:44:48,20:27:17,4885.46,114
+FL076,SpiceJet,Kolkata,Hyderabad,08:20:53,08:40:50,8717.59,174
+FL077,GoAir,Chennai,Mumbai,03:05:27,09:50:35,8807.45,120
+FL078,GoAir,Delhi,Kolkata,12:29:33,04:46:00,4410.59,172
+FL079,SpiceJet,Hyderabad,Delhi,19:38:42,13:07:23,14148.18,136
+FL080,IndiGo,Kolkata,Delhi,08:01:39,23:57:41,5240.18,78
+FL081,Air India,Hyderabad,Hyderabad,08:38:43,03:12:36,10958.92,173
+FL082,GoAir,Hyderabad,Chennai,06:55:41,22:25:56,11637.85,198
+FL083,SpiceJet,Chennai,Mumbai,15:19:29,23:30:10,11944.1,95
+FL084,GoAir,Hyderabad,Delhi,02:01:30,01:13:28,3633.65,90
+FL085,SpiceJet,Hyderabad,Delhi,14:27:14,14:15:47,11654.86,144
+FL086,Air India,Chennai,Mumbai,08:40:26,10:44:41,3272.73,94
+FL087,Vistara,Delhi,Delhi,14:47:30,04:41:07,10009.28,92
+FL088,SpiceJet,Kolkata,Kolkata,08:27:30,01:02:31,8492.66,131
+FL089,Air India,Hyderabad,Hyderabad,07:55:32,20:47:05,6575.56,159
+FL090,Air India,Hyderabad,Chennai,20:04:26,04:43:04,4105.99,186
+FL091,Air India,Delhi,Delhi,13:38:19,17:26:37,12424.89,119
+FL092,Vistara,Mumbai,Bangalore,03:07:25,02:32:16,10260.19,183
+FL093,GoAir,Delhi,Hyderabad,08:28:35,16:01:14,8831.23,141
+FL094,IndiGo,Bangalore,Hyderabad,10:12:09,18:00:05,9011.5,146
+FL095,GoAir,Hyderabad,Kolkata,01:04:07,06:51:58,13622.2,195
+FL096,SpiceJet,Bangalore,Bangalore,02:33:17,05:21:43,10080.98,173
+FL097,IndiGo,Mumbai,Chennai,04:37:49,20:55:15,6323.1,150
+FL098,GoAir,Mumbai,Mumbai,15:44:44,17:18:37,6365.65,122
+FL099,Vistara,Hyderabad,Bangalore,08:44:50,05:34:24,8084.59,143
+FL100,GoAir,Mumbai,Bangalore,15:50:45,08:14:48,6431.12,123
